@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Advisor",
+  "description": "Upload a full-body picture and get personalized fashion suggestions powered by Gemini. Discover clothing styles that look great on you.",
+  "requestFramePermissions": []
+}
